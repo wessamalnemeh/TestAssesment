@@ -6,7 +6,7 @@ Prerequistes for running this application:
 
 -DB Connection properties need to be changed in following file: .\test\src\main\resources\application.properties
 
-Test.postman_collection.json contains the documentation of API Requests.
+Test.postman_collection.json is a POSTMAN template that contains the documentation of API Requests.
 
 Test folder is the project folder.
 
