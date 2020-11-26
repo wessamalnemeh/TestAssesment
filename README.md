@@ -1,4 +1,4 @@
-Test Assesment Project
+#Test Assesment Project
 
 Prerequistes for running this application:
 -Please make sure to execute the DBScipt.sql on MYSQL DBMS
